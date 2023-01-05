@@ -12,6 +12,8 @@
 
 ### [2021 개발자 회고](https://noahlab.notion.site/2021-bd23b0cd41094e78886e950d95db89d5)
 
+### [2022 회고](https://brunch.co.kr/@moonkii/6)
+
 ![moonkii's github stats](https://github-readme-stats.vercel.app/api?username=moonkii&count_private=true&show_icons=true)
 
 <!--
